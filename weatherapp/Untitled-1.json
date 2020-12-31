@@ -1,0 +1,30 @@
+[
+  {
+    "location": [
+      {
+        "id": "",
+        "name": "",
+        "avgTemprature": "",
+        "avgSoilDryness": ""
+      }
+    ]
+  },
+  {
+    "weatherDetails": [
+      {
+        "temprature": "",
+        "soilDryness": "",
+        "time": "",
+        "locationId": ""
+      }
+    ]
+  }
+]
+
+// LocationService:"", getLocation,addLocation, get Alllocations, updateLocation
+
+// dataService > {locationid,time,temp,dryness}| >
+// getLocatioin> > save weather details(save weatherdetails)(getweatherdetails)
+
+// processData>
+//
